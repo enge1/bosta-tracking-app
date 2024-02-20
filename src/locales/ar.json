@@ -1,0 +1,14 @@
+{
+    "trackingResults": {
+      "status": {
+        "In Transit": "قيد الانتقال",
+        "Delivered": "تم التوصيل",
+        "Pending": "قيد الانتظار"
+      },
+      "location": {
+        "Warehouse": "المستودع",
+        "Customer Address": "عنوان العميل"
+      }
+    }
+  }
+  

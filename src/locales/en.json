@@ -1,0 +1,14 @@
+{
+    "trackingResults": {
+      "status": {
+        "In Transit": "In Transit",
+        "Delivered": "Delivered",
+        "Pending": "Pending"
+      },
+      "location": {
+        "Warehouse": "Warehouse",
+        "Customer Address": "Customer Address"
+      }
+    }
+  }
+  

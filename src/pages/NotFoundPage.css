@@ -1,0 +1,19 @@
+/* NotFoundPage.css */
+
+.not-found-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .not-found-heading {
+    font-size: 36px;
+    color: #dc3545; /* Red color */
+  }
+  
+  .not-found-message {
+    font-size: 18px;
+    color: #6c757d; /* Gray color */
+  }
+  
